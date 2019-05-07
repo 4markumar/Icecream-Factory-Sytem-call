@@ -50,3 +50,5 @@ The process is pretty similar for icecream system call too. Just have to change 
 
 This is the output you are expected to get:
 
+![](https://github.com/4markumar/Icecream-Factory-Sytem-call/blob/master/Screenshots/screenshot_1.png)
+![](https://github.com/4markumar/Icecream-Factory-Sytem-call/blob/master/Screenshots/screenshot_2.png)
